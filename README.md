@@ -1,3 +1,3 @@
 # xi-clang
 
-A clang plugin for xi-editor
+A clang plugin for xi-editor. Experimental(WIP)
